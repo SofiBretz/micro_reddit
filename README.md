@@ -1,24 +1,13 @@
-# README
+## Micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, we build some models and try to build a micro-reddit app.
 
-Things you may want to cover:
+## Tecnologies
 
-* Ruby version
+* Ruby
+* Ruby on Rails
 
-* System dependencies
+## Authors - click on the link below to see the authors' github
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* <a href="https://github.com/rmauritsson"> Github: Leonard Rwai Kanyesigye</a>
+* <a href="https://github.com/SofiBretz">Github: Sofia Barrantes</a>
